@@ -26,6 +26,8 @@ Here is the list of real world elements needed to make this real
 
 ## 1. Funcionalities
 
+![Map System](./img/functionalities.jpg)
+
 ## 2. Workflow and User Interaction
 
 ## 2. Map System
