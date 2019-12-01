@@ -25,10 +25,6 @@ Here is the list of technologies used in the project, but you can use any other 
   - [API Rest](https://www.django-rest-framework.org/): Python and Django Rest Framwork.
   - [Front End Page](https://angular.io/): Typescript and Angular 2.8
 
-## Elements Needed 
-
-Here is the list of real world elements needed to make this real 
-
 ## 1. Funcionalities
 
 ![Funcionalities](./img/functionalities.jpg)
