@@ -41,4 +41,4 @@ Here is the list of technologies used in the project, but you can use any other 
 
 ![swArch](./img/swArch.jpg)
 
-## 4. Link to Project Documentation
+## 4. Link to Repositories
