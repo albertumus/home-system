@@ -37,8 +37,9 @@ Here is the list of technologies used in the project, but you can use any other 
 
 ![Workflow](./img/activityMap.jpg)
 
-## 3. Software Architecture
+## 4. Software Architecture
 
 ![swArch](./img/swArch.jpg)
 
-## 4. Link to Repositories
+## 5. Link to Repositories
+[Telegram Bot](https://github.com/albertumus/home-system-telegram-bot/)
